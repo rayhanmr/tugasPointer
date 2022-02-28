@@ -1,4 +1,4 @@
-# tugasPointer
+# Tugas Membuat Pointer to Integer
 Nama  : Rayhan M. Rizki
 
 NPM   : G1A021083
